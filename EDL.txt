@@ -1,3 +1,5 @@
+;This section refers to all IP ranges associated with ASN "stark-industries.solutions" a known bad host with 1553 IP ranges
+;BEGIN stark-industries.solutions
 45.86.60.0/22
 171.22.135.0/24
 185.207.15.0/24
@@ -1551,3 +1553,4 @@
 95.164.118.0/24
 185.235.242.0/24
 2a14:2d82::/32
+;END stark-industries.solutions
