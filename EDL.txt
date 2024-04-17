@@ -1717,3 +1717,7 @@
 197.155.92.20	;Liquid Telecommunications Operations Limited	liquidtelecom.com
 80.179.183.9	;Partner Communications Ltd.	partner.co.il
 ;END
+;This section was inserted as a result of PA-220 intrusion on 16-4-24
+;BEGIN
+118.193.39.47
+159.65.33.252
